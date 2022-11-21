@@ -117,7 +117,7 @@ ul {
 }
 
 .home_black_version {
-  background: #aaaaaaab;
+  background: #360336cb;
 }
 
 .header_black .header_top {
@@ -946,6 +946,11 @@ ul {
   font-weight: 500;
 }
 
+.intro_video{
+text-align: center;
+
+ 
+}
 /* **********Slider Section *************** */
 .single_slider {
   background-repeat: no-repeat;
