@@ -23,7 +23,7 @@ body {
   font-weight: 400;
   visibility: visible;
   font-family: "Poppins", sans-serif;
-  color: #da9226f3;
+  color:#3a3131;
 }
 
 h1,
@@ -117,11 +117,11 @@ ul {
 }
 
 .home_black_version {
-  background: #454440;
+  background: #aaaaaaab;
 }
 
 .header_black .header_top {
-  border-bottom: 1px solid #de9312;
+  border-bottom: 1px solid #3e3526;
 }
 
 .header_black .social_icone ul li a {
@@ -361,7 +361,7 @@ ul {
 }
 
 .header_black .contact_box p {
-  color: #c3b840ce;
+  color: #29281bce;
   font-size: 14px;
 }
 
@@ -632,7 +632,7 @@ ul {
 }
 
 .header_black .cart_info span.quantity {
-  color: #a0a0a0;
+  color: #332222;
 }
 
 .cart_remove {
@@ -1510,7 +1510,7 @@ ul {
   margin-bottom: 10px;
 }
 .product_black_section .tag_cate a {
-  color: #a0a0a0;
+  color: #3a3131;
   font-size: 13px;
 }
 .product_black_section .tag_cate a:hover {
@@ -1592,7 +1592,7 @@ ul {
 .product_desc p {
   font-size: 13px;
   line-height: 18px;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 .action_links ul li {
   display: inline-block;
@@ -1671,7 +1671,7 @@ ul {
 }
 
 .black_fullwidth .banner_text span {
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .black_fullwidth .banner_text a {
@@ -1732,7 +1732,7 @@ ul {
   background: inherit;
   font-size: 15px;
   background: transparent;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .product_container.bottom button:hover {
@@ -1809,7 +1809,7 @@ ul {
 }
 
 .blog_black .blog_wrapper .owl-nav div {
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .blog_black .blog_wrapper .owl-nav div:hover {
@@ -1840,7 +1840,7 @@ ul {
 }
 
 .blog_content .read_more a {
-  color: #a0a0a0;
+  color: #341a1a;
 }
 .blog_content .read_more a:hover {
   color: #a8741a;
@@ -1855,7 +1855,7 @@ ul {
 }
 
 .post_desc p {
-  color: #a0a0a0;
+  color: #341a1a;
   font-size: 13px;
 }
 .blog_wrapper .col-lg-4 {
@@ -1925,7 +1925,7 @@ ul {
 }
 .post_desc p {
   line-height: 26px;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 .blog_content p.post_desc {
   color: #5a5a5a;
@@ -2017,7 +2017,7 @@ ul {
   line-height: 32px;
 }
 .newsletter_black p {
-  color: #a0a0a0;
+  color: #341a1a;
   line-height: 26px;
   margin-bottom: 37px;
 }
@@ -2149,7 +2149,7 @@ p {
 .footer_contact p {
   margin-bottom: 0;
   line-height: 30px;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .footer_contact p a:hover {
@@ -2189,7 +2189,7 @@ p {
   font-weight: 400;
   line-height: 30px;
   font-size: 14px;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .footer_menu ul li a:hover {
@@ -2264,7 +2264,7 @@ p {
 .copyright_area p {
   text-transform: capitalize;
   line-height: 26px;
-  color: #a0a0a0;
+  color: #341a1a;
 }
 
 .copyright_area p a {
