@@ -125,7 +125,7 @@ ul {
 }
 
 .header_black .social_icone ul li a {
-  background: #c9a30b;
+  background: black;
   color: #fdfdfdf4;
 }
 
@@ -336,7 +336,7 @@ ul {
 /* *****************Middle Header******************** */
 
 .header_middel {
-  padding: 40px 0;
+  padding: 0px;
   border-bottom: 1px solid #ebebeb;
 }
 
@@ -361,7 +361,7 @@ ul {
 }
 
 .header_black .contact_box p {
-  color: #29281bce;
+  color: white;
   font-size: 14px;
 }
 
@@ -2352,7 +2352,7 @@ p {
   font-weight: 400;
 }
 
-.modal_social ul li a:hover {
+.modal_social ul li a: {
   background: #a8741a;
   color: #fff;
   border-color: #a8741a;
