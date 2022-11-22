@@ -786,7 +786,7 @@ ul {
   padding: 30px 25px;
   background: #fff;
   border: 1px solid #ebebeb;
-  transform: perspective(600px) rotateX(-90deg);
+  /* transform: perspective(600px) rotateX(-90deg); */
   transform-origin: 0 0 0;
   left: 0;
   right: auto;
@@ -837,7 +837,7 @@ ul {
   padding: 30px 25px 35px;
   background: #fff;
   border: 1px solid #ebebeb;
-  transform: perspective(600px) rotateX(-90deg);
+  /* transform: perspective(600px) rotateX(-90deg); */
   transform-origin: 0 0 0;
   left: 0;
   right: auto;
@@ -952,7 +952,7 @@ text-align: center;
  
 }
 /* **********Slider Section *************** */
-.single_slider {
+/* .single_slider {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -1140,7 +1140,7 @@ text-align: center;
   text-transform: uppercase;
   font-size: 13px;
   border-radius: 5px;
-}
+} */
 
 /* **********banner section ************ */
 .banner_section {
