@@ -1407,7 +1407,7 @@ text-align: center;
   color: #f7f2f2;
 }
 .action_links ul li {
-  display: inline-block;
+  display: none;
 }
 .action_links ul li.add_to_cart a {
   line-height: 35px;
